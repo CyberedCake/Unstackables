@@ -1,0 +1,9 @@
+name: Unstackables
+version: '${version}'
+main: net.cybercake.unstackables.Main
+api-version: 1.17
+prefix: Unstackables
+load: STARTUP
+authors: [ CyberedCake ]
+description: Creates a challenge for players that makes every item UNSTACKABLE!!
+website: https://github.com/CyberedCake/Unstackables
